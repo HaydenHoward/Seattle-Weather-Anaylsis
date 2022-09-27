@@ -17,6 +17,7 @@
     2. What is the longest period of time that it goes without raining?
         The longest time it went without raining or another kind of precipitation was 18 days. This took place 12-08-22 to 12-09-08.
     3. What is the average of max and min temperature does it rain the most?
+        The average max temperature it rains at is 13.45 degrees celsius while the average mininum temperature is 7.58.
 }
 
 # Development Environment
