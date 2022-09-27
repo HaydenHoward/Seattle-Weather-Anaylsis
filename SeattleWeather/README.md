@@ -15,6 +15,7 @@
 {   1. What three month period has the most precipitation?
         The three month period with the most precipitation is October - December 2015 with an average of 6.733.  
     2. What is the longest period of time that it goes without raining?
+        The longest time it went without raining or another kind of precipitation was 18 days. This took place 12-08-22 to 12-09-08.
     3. What is the average of max and min temperature does it rain the most?
 }
 
