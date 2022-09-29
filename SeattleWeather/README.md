@@ -1,18 +1,15 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{This data set is a weather prediction data set based on weather patterns in Seattle Washing from 2012 to 2015. It shows the date, the amount of precipitation, the max and min temperatures, the wind speed, and what the weather was. This data set can be found at https://www.kaggle.com/datasets/ananthr1/weather-prediction. }
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+{I wanted to gain expereince using the Pandas library in python. I found this data set and I wanted to know more about it so I knew it was the perfect data set to learn with. I wanted to learn more about the weather patterns so I chose three questions I had and found the answer by using pandas to anaylze it further.}
 
-{Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/lTg_jU7gynw)
 
 # Data Analysis Results
 
-{   1. What three month period has the most precipitation?
+{   
+    1. What three month period has the most precipitation?
         The three month period with the most precipitation is October - December 2015 with an average of 6.733.  
     2. What is the longest period of time that it goes without raining?
         The longest time it went without raining or another kind of precipitation was 18 days. This took place 12-08-22 to 12-09-08.
@@ -22,19 +19,23 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{I used Visual Studio Code, Git Hub, and Jupyter notebook to write my code.}
 
-{Describe the programming language that you used and any libraries.}
+{Python was the language that was used for this project. Libraries used were pandas and matplotlib.}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube](https://www.youtube.com/watch?v=dcqPhpY7tWk)
+* [Youtube](https://www.youtube.com/watch?v=yCgJGsg0Xa4)
+* [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.interval_range.html#pandas.interval_range)
+* [Towards Data Science](https://towardsdatascience.com/pandas-dataframe-group-by-consecutive-certain-values-a6ed8e5d8cc)
+* [Stack Overflow](https://stackoverflow.com/questions/48248239/pandas-how-to-convert-rangeindex-into-datetimeindex)
+
+
+
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* I could improve the efficiency of question one by using a loop to check every three month period instead of the ones that I chose that looked like they had the most precipitation. 
+* Answer other questions such as what month was the rainiest each year, and was the wind speed higher on days with one type of weather compared to other weather types. 
+* Add more graphs to accuratly display the information that I found. 
